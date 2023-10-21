@@ -1,4 +1,4 @@
-﻿##Desafio de Projeto - Pipeline ETL
+﻿#Desafio de Projeto - Pipeline ETL
 
 
 Desafio de projeto relacionado a atividade "Explorando IA Generativa em um Pipeline de ETL com Python" no Bootcamp Ciencia de dados com Python da DIO.
